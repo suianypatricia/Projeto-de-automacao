@@ -5,6 +5,7 @@ O projeto realiza a busca de informações no Yahoo Finanças para a ação esco
  - Cotação máxima
  - Cotação mínima
  - Valor médio
+   
 Após a coleta e cálculo, os dados são enviados automaticamente para o e-mail do gestor,
 simplificando a rotina e otimizando o tempo que seria gasto com essas tarefas manualmente.
 
